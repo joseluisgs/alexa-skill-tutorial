@@ -4,7 +4,7 @@ Tutorial sobre como desarrollar una Skill de Alexa creado para el grupo de Traba
 [![NodeJS](https://img.shields.io/badge/NodeJS-Ready-83BA63)](https://nodejs.org/es/)
 [![Alexa Skill](https://img.shields.io/badge/TypeScript-Ready-3178c6)](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples)
 [![Licence](https://img.shields.io/github/license/joseluisgs/todo-native-script)](./LICENSE)
-![GitHub](https://img.shields.io/github/last-commit/joseluisgs/vue-chat-socket)
+![GitHub](https://img.shields.io/github/last-commit/joseluisgs/alexa-skill-tutorial)
 
 - [Alexa Skill Tutorial](#alexa-skill-tutorial)
   - [Sobre el tutorial](#sobre-el-tutorial)
